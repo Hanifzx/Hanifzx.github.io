@@ -6,4 +6,4 @@ tags: [hello world]
 ---
 
 <!-- # Hello World -->
-Hello world! This is my personal blog.
+Hello world! I'm trying to create my first blog
