@@ -6,5 +6,5 @@ categories: [Hello World]
 tags: [hello world]
 ---
 
-<!-- # Hello World -->
+# Hello World
 Hello world! I'm trying to create my first blog
